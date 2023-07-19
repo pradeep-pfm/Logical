@@ -7,7 +7,7 @@ import java.util.function.Supplier;
 import java.util.stream.Collectors;
 
 
-public class JDK8 {
+public class MergeArrayCollection {
     public static void main(String[] args) {
 
         int[] arr1 = {2, 4, 7};
